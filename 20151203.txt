@@ -1,0 +1,21 @@
+select department -> select subject
+
+density(histogram) for each department
+
+boxplot
+
+
+group by deparmente or cluster of requests?
+
+
+on_time rate  
+
+
+ANOVA Model0= target time ~  Neighborhood + Source + Department 
+                                       
+      Model2= terget time ~ N + S + D + Requests
+
+H0: M2 = Mp00
+
+
+

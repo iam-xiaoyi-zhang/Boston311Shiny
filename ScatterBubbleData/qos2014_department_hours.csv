@@ -1,0 +1,137 @@
+,name,duration,efficiency,ontime_rate,request_volume,SUBJECT
+1,Allston / Brighton,20.2,385 ,0.87,2605,Public Works Department
+2,Back Bay,39.92,305 ,0.78,1990,Public Works Department
+3,Beacon Hill,22.54,413 ,0.82,1569,Public Works Department
+4,Charlestown,20.43,437 ,0.84,1637,Public Works Department
+5,Dorchester,20.21,442 ,0.9,5586,Public Works Department
+6,Downtown / Financial District,23.74,381 ,0.83,2823,Public Works Department
+7,East Boston,35.69,263 ,0.85,1991,Public Works Department
+8,Fenway / Kenmore / Audubon Circle / Longwood,22.57,463 ,0.83,865,Public Works Department
+9,Hyde Park,18.27,474 ,0.91,1758,Public Works Department
+10,Jamaica Plain,19.7,416 ,0.89,2719,Public Works Department
+11,Mattapan,18.63,428 ,0.9,1671,Public Works Department
+12,Mission Hill,20.03,445 ,0.92,679,Public Works Department
+13,Roslindale,17.79,539 ,0.91,1536,Public Works Department
+14,Roxbury,17.57,519 ,0.9,3762,Public Works Department
+15,South Boston / South Boston Waterfront,24.79,334 ,0.86,3140,Public Works Department
+16,South End,21.02,438 ,0.86,1934,Public Works Department
+17,West Roxbury,16.77,453 ,0.9,2141,Public Works Department
+18,Allston / Brighton,1147.39,8 ,0,6,Boston Public School
+19,Back Bay,578.39,25 ,0,1,Boston Public School
+20,NA,NA,#VALUE!,NA,0,Boston Public School
+21,Charlestown,3950.03,3 ,0,6,Boston Public School
+22,Dorchester,1491.43,6 ,0.08,48,Boston Public School
+23,Downtown / Financial District,862.11,15 ,0.13,8,Boston Public School
+24,East Boston,1671.01,6 ,0,6,Boston Public School
+25,Fenway / Kenmore / Audubon Circle / Longwood,4856.51,1 ,0,1,Boston Public School
+26,Hyde Park,757.07,12 ,0.24,17,Boston Public School
+27,Jamaica Plain,2171.1,4 ,0,13,Boston Public School
+28,Mattapan,4045.09,3 ,0,12,Boston Public School
+29,Mission Hill,2070.65,3 ,0,5,Boston Public School
+30,Roslindale,3598.83,3 ,0,14,Boston Public School
+31,Roxbury,3285.36,4 ,0.07,41,Boston Public School
+32,South Boston / South Boston Waterfront,1867.95,5 ,0,16,Boston Public School
+33,South End,1194.25,8 ,0,2,Boston Public School
+34,West Roxbury,1554.41,6 ,0,11,Boston Public School
+35,NA,NA,#VALUE!,NA,0,Boston Water & Sewer Commission
+36,NA,NA,#VALUE!,NA,0,Boston Water & Sewer Commission
+37,NA,NA,#VALUE!,NA,0,Boston Water & Sewer Commission
+38,NA,NA,#VALUE!,NA,0,Boston Water & Sewer Commission
+39,NA,NA,#VALUE!,NA,0,Boston Water & Sewer Commission
+40,NA,NA,#VALUE!,NA,0,Boston Water & Sewer Commission
+41,NA,NA,#VALUE!,NA,0,Boston Water & Sewer Commission
+42,NA,NA,#VALUE!,NA,0,Boston Water & Sewer Commission
+43,NA,NA,#VALUE!,NA,0,Boston Water & Sewer Commission
+44,Jamaica Plain,303.93,30 ,0,1,Boston Water & Sewer Commission
+45,NA,NA,#VALUE!,NA,0,Boston Water & Sewer Commission
+46,NA,NA,#VALUE!,NA,0,Boston Water & Sewer Commission
+47,NA,NA,#VALUE!,NA,0,Boston Water & Sewer Commission
+48,Roxbury,40.6,100 ,0,1,Boston Water & Sewer Commission
+49,South Boston / South Boston Waterfront,1466.01,101 ,1,1,Boston Water & Sewer Commission
+50,NA,NA,#VALUE!,NA,0,Boston Water & Sewer Commission
+51,NA,NA,#VALUE!,NA,0,Boston Water & Sewer Commission
+52,Allston / Brighton,99.02,209 ,0.72,2311,Inspectional Services
+53,Back Bay,66.26,199 ,0.73,1011,Inspectional Services
+54,Beacon Hill,42.95,236 ,0.8,762,Inspectional Services
+55,Charlestown,64.53,242 ,0.81,446,Inspectional Services
+56,Dorchester,118.7,199 ,0.7,3612,Inspectional Services
+57,Downtown / Financial District,66.58,174 ,0.71,1461,Inspectional Services
+58,East Boston,87.98,180 ,0.69,1705,Inspectional Services
+59,Fenway / Kenmore / Audubon Circle / Longwood,170.53,165 ,0.68,444,Inspectional Services
+60,Hyde Park,109.44,174 ,0.68,914,Inspectional Services
+61,Jamaica Plain,99.66,204 ,0.72,1346,Inspectional Services
+62,Mattapan,192.59,190 ,0.69,1317,Inspectional Services
+63,Mission Hill,104.6,206 ,0.75,452,Inspectional Services
+64,Roslindale,99.55,176 ,0.67,707,Inspectional Services
+65,Roxbury,166.08,182 ,0.67,2110,Inspectional Services
+66,South Boston / South Boston Waterfront,90.73,174 ,0.72,1692,Inspectional Services
+67,South End,90.81,177 ,0.7,1005,Inspectional Services
+68,West Roxbury,96.65,173 ,0.65,540,Inspectional Services
+69,Allston / Brighton,3.09,6158 ,0.78,18,Mayor's 24 Hour Hotline
+70,Back Bay,21.46,1477 ,0.86,7,Mayor's 24 Hour Hotline
+71,Beacon Hill,18.44,1987 ,1,6,Mayor's 24 Hour Hotline
+72,Charlestown,40.03,1407 ,1,2,Mayor's 24 Hour Hotline
+73,Dorchester,16.36,2117 ,1,17,Mayor's 24 Hour Hotline
+74,Downtown / Financial District,81.78,384 ,0.67,12,Mayor's 24 Hour Hotline
+75,East Boston,13.85,972 ,0.83,6,Mayor's 24 Hour Hotline
+76,Fenway / Kenmore / Audubon Circle / Longwood,39.31,1270 ,1,4,Mayor's 24 Hour Hotline
+77,Hyde Park,11.5,40455 ,1,2,Mayor's 24 Hour Hotline
+78,Jamaica Plain,11.87,3871 ,1,8,Mayor's 24 Hour Hotline
+79,Mattapan,17.27,1998 ,1,6,Mayor's 24 Hour Hotline
+80,Mission Hill,11.75,27969 ,1,2,Mayor's 24 Hour Hotline
+81,Roslindale,18.2,2191 ,0.6,5,Mayor's 24 Hour Hotline
+82,Roxbury,30.12,1354 ,0.93,15,Mayor's 24 Hour Hotline
+83,South Boston / South Boston Waterfront,19.57,1408 ,0.93,14,Mayor's 24 Hour Hotline
+84,South End,17.92,2332 ,1,10,Mayor's 24 Hour Hotline
+85,West Roxbury,23.62,1524 ,1,4,Mayor's 24 Hour Hotline
+86,Allston / Brighton,1559.07,409 ,0.99,252,Parks & Recreation Department
+87,Back Bay,2083.29,450 ,0.99,102,Parks & Recreation Department
+88,Beacon Hill,1389.59,620 ,0.97,59,Parks & Recreation Department
+89,Charlestown,2348.47,334 ,0.99,170,Parks & Recreation Department
+90,Dorchester,839.63,656 ,0.97,425,Parks & Recreation Department
+91,Downtown / Financial District,949.3,398 ,0.97,58,Parks & Recreation Department
+92,East Boston,1125.5,668 ,0.98,199,Parks & Recreation Department
+93,Fenway / Kenmore / Audubon Circle / Longwood,89.6,688 ,0.97,36,Parks & Recreation Department
+94,Hyde Park,1379.18,507 ,0.97,144,Parks & Recreation Department
+95,Jamaica Plain,1176.6,567 ,0.99,177,Parks & Recreation Department
+96,Mattapan,980.88,600 ,0.99,141,Parks & Recreation Department
+97,Mission Hill,15.06,419 ,0.94,16,Parks & Recreation Department
+98,Roslindale,1444.7,555 ,0.99,152,Parks & Recreation Department
+99,Roxbury,304.39,285 ,0.94,173,Parks & Recreation Department
+100,South Boston / South Boston Waterfront,1674.8,556 ,0.97,215,Parks & Recreation Department
+101,South End,1379.71,366 ,0.99,142,Parks & Recreation Department
+102,West Roxbury,1608.38,620 ,0.99,349,Parks & Recreation Department
+103,Allston / Brighton,326.59,482 ,0.9,579,Property Management
+104,Back Bay,189.98,828 ,0.93,443,Property Management
+105,Beacon Hill,267.18,578 ,0.87,70,Property Management
+106,Charlestown,151.81,1040 ,0.85,88,Property Management
+107,Dorchester,206.72,752 ,0.92,277,Property Management
+108,Downtown / Financial District,267.48,573 ,0.85,468,Property Management
+109,East Boston,318.9,468 ,0.85,232,Property Management
+110,Fenway / Kenmore / Audubon Circle / Longwood,160.05,1005 ,0.93,282,Property Management
+111,Hyde Park,434.19,370 ,0.68,19,Property Management
+112,Jamaica Plain,253,602 ,0.82,354,Property Management
+113,Mattapan,467.75,304 ,0.68,34,Property Management
+114,Mission Hill,189.44,829 ,0.84,181,Property Management
+115,Roslindale,322.67,487 ,0.77,84,Property Management
+116,Roxbury,165.31,927 ,0.89,240,Property Management
+117,South Boston / South Boston Waterfront,196.89,800 ,0.83,175,Property Management
+118,South End,145.64,1066 ,0.88,288,Property Management
+119,West Roxbury,573.75,282 ,0.69,13,Property Management
+120,Allston / Brighton,71.34,248 ,0.83,1218,Transportation - Traffic Division
+121,Back Bay,43.25,307 ,0.82,638,Transportation - Traffic Division
+122,Beacon Hill,50.81,350 ,0.81,170,Transportation - Traffic Division
+123,Charlestown,67.27,264 ,0.83,245,Transportation - Traffic Division
+124,Dorchester,97.58,260 ,0.83,1249,Transportation - Traffic Division
+125,Downtown / Financial District,35.85,309 ,0.79,1093,Transportation - Traffic Division
+126,East Boston,49.42,337 ,0.88,478,Transportation - Traffic Division
+127,Fenway / Kenmore / Audubon Circle / Longwood,37.1,285 ,0.82,347,Transportation - Traffic Division
+128,Hyde Park,86.24,334 ,0.83,328,Transportation - Traffic Division
+129,Jamaica Plain,95.45,271 ,0.8,684,Transportation - Traffic Division
+130,Mattapan,114.21,206 ,0.82,507,Transportation - Traffic Division
+131,Mission Hill,45.58,353 ,0.85,198,Transportation - Traffic Division
+132,Roslindale,61.85,242 ,0.82,479,Transportation - Traffic Division
+133,Roxbury,68.18,257 ,0.84,911,Transportation - Traffic Division
+134,South Boston / South Boston Waterfront,22.46,534 ,0.9,718,Transportation - Traffic Division
+135,South End,30.01,558 ,0.85,278,Transportation - Traffic Division
+136,West Roxbury,87.7,267 ,0.78,260,Transportation - Traffic Division
